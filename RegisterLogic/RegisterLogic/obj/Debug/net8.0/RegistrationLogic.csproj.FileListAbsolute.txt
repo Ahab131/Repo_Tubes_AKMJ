@@ -1,0 +1,15 @@
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\bin\Debug\net8.0\RegistrationLogic.exe
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\bin\Debug\net8.0\RegistrationLogic.deps.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\bin\Debug\net8.0\RegistrationLogic.runtimeconfig.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\bin\Debug\net8.0\RegistrationLogic.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\bin\Debug\net8.0\RegistrationLogic.pdb
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.AssemblyInfoInputs.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.AssemblyInfo.cs
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.csproj.CoreCompileInputs.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.sourcelink.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\refint\RegistrationLogic.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.pdb
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\RegistrationLogic.genruntimeconfig.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\Konstruksi Perangkat Lunak Week 8\RegisterLogic\RegisterLogic\obj\Debug\net8.0\ref\RegistrationLogic.dll

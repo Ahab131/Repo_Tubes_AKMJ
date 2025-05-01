@@ -1,0 +1,10 @@
+﻿using System.Collections.Generic;
+
+namespace RegistrationLogic.Models
+{
+    public class RegistrationResult
+    {
+        public bool Success { get; set; }
+        public List<string> Errors { get; set; } = new List<string>();
+    }
+}

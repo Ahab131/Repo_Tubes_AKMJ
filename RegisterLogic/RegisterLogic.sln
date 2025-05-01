@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationLogic", "RegisterLogic\RegistrationLogic.csproj", "{F54DAC7C-4444-4562-8BCC-E69E930F5556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54DAC7C-4444-4562-8BCC-E69E930F5556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54DAC7C-4444-4562-8BCC-E69E930F5556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54DAC7C-4444-4562-8BCC-E69E930F5556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54DAC7C-4444-4562-8BCC-E69E930F5556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC378323-2ECB-4DCE-9C7C-58D475BF7901}
+	EndGlobalSection
+EndGlobal
